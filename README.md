@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lingiux Academy</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #0d1a4d;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      font-style: italic;
+    }
+    main {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .mission {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    footer {
+      background-color: #0d1a4d;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lingiux Academy</h1>
+    <p>Where education is a pleasure</p>
+  </header>
+
+  <main>
+    <div class="mission">
+      <p>Welcome to Lingiux Academy — an institution founded on passion, excellence, and integrity. We are committed to shaping future leaders through innovative education and servant leadership values.</p>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2021 Lingiux Academy. All rights reserved.
+  </footer>
+</body>
+</html>
